@@ -1,0 +1,3 @@
+remove too many items from every line of a line. Then print the line content.
+
+run it "ruby beautiful_log.rb file_path"
